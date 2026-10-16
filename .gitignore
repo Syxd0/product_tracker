@@ -1,0 +1,15 @@
+# Python
+myenv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables & secrets
+.env
+
+# Node.js
+node_modules/
+build/
+dist/
+.DS_Store
